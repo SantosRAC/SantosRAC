@@ -15,12 +15,12 @@ images = "img/me.JPG"
     url = "/About/"
     weight = 1
 [[menu.main]]
-    name = "CV"
-    url = "/CV/"
+    name = "curriculum"
+    url = "/curriculum/index.md"
     weight = 2
 [[menu.main]]
     name = "Collaborations"
-    url = "/Collaborations/"
+    url = "/Collaborations/index.md"
     weight = 3
 
 [[menu.footer]]
@@ -33,5 +33,5 @@ images = "img/me.JPG"
     weight = 2
 [[menu.footer]]
       name = "curriculum"
-      url = "curriculum/"
+      url = "curriculum/index.md"
     weight = 3
