@@ -3,6 +3,13 @@ languageCode = 'en-us'
 title = 'Dr. Renato Augusto Corrêa dos Santos'
 theme = "colordrop"
 
+[params]
+themeColor = "#000000"
+themeInverseColor = "#ffffff"
+description = "My academic life"
+siteLogo = "img/me.JPG"
+images = "img/me.JPG"
+
 [[menu.main]]
     name = "About"
     url = "/About/"
@@ -24,10 +31,3 @@ theme = "colordrop"
 	name = "twitter"
 	url = "https://twitter.com/CorreaSantosRA"
     weight = 2
-
-[params]
-themeColor = "#000000"
-themeInverseColor = "#ffffff"
-description = "My academic life"
-siteLogo = "img/me.JPG"
-images = "img/me.JPG"
