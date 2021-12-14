@@ -23,11 +23,11 @@ images = "img/me.JPG"
     url = "/Collaborations/"
     weight = 3
 
-[[menu.footer_primary]]
+[[menu.footer]]
 	name = "github"
 	url = "https://github.com/SantosRAC"
     weight = 1
-[[menu.footer_primary]]
+[[menu.footer]]
 	name = "twitter"
 	url = "https://twitter.com/CorreaSantosRA"
     weight = 2
