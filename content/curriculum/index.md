@@ -17,20 +17,8 @@ openSource:
 
 ---
 
-contact:
-  - identifier: email
-    svg: email
-    display: renatoacsantos@gmail.com
-    url: mailto:renatoacsantos@gmail.com
-  - identifier: website
-    svg: website
-    display: santosrac.netlify.app
-    url: https://santosrac.netlify.app
-  - identifier: github
-    svg: github
-    display: SantosRAC
-    url: https://github.com/SantosRAC/
-  - identifier: linkedin
-    svg: linkedin
-    display: SantosRAC
-    url: https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/
+# contact
+
+ * email: [renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com)
+ * github: [@SantosRAC](https://github.com/SantosRAC/)
+ * [LinkedIn](https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/)
