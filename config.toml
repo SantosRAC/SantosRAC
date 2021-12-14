@@ -32,6 +32,6 @@ images = "img/me.JPG"
 	url = "https://twitter.com/CorreaSantosRA"
     weight = 2
 [[menu.footer]]
-      name: curriculum
-      url: curriculum/
-    weight: 3
+      name = "curriculum"
+      url = "curriculum/"
+    weight = 3
