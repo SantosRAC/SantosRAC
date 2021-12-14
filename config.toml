@@ -6,7 +6,5 @@ theme = "colordrop"
 [params]
 themeColor = "#000000"
 themeInverseColor = "#ffffff"
-
-[params]
 description = "Welcome to my blog..."
 siteLogo = "logo-photo.png"
