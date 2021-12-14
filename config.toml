@@ -1,6 +1,6 @@
 baseURL = 'https://santosrac.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dr. Renato Augusto Corrêa dos Santos'
 theme = "colordrop"
 
 [params]
