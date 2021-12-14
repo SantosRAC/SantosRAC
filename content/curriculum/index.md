@@ -1,6 +1,6 @@
 ---
 type:
-title: CV page
+title: Curriculum
 name: Renato Santos
 jobTitle: Bioinformatician
 locationName:
