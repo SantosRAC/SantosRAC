@@ -4,5 +4,10 @@ linkTitle:
 weight: 1
 menu:
   main: {}
-
 ---
+
+# Interests
+
+ * Genomics, Transcriptomics, and Phylogenetics
+ * Bioinformatics Education
+ * Microbiology and Plant Biology
