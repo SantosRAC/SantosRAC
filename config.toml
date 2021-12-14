@@ -3,6 +3,15 @@ languageCode = 'en-us'
 title = 'Dr. Renato Augusto Corrêa dos Santos'
 theme = "colordrop"
 
+[[menu.footer_primary]]
+	name = "github"
+	url = "https://github.com/SantosRAC"
+    weight = 1
+[[menu.footer_primary]]
+	name = "twitter"
+	url = "https://twitter.com/CorreaSantosRA"
+    weight = 2
+
 [params]
 themeColor = "#000000"
 themeInverseColor = "#ffffff"
