@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Dr. Renato Augusto Corrêa dos Santos'
 theme = "colordrop"
 
+[[menu.main]]
+    name = "CV"
+    url = "/CV/"
+    weight = 1
+
 [[menu.footer_primary]]
 	name = "github"
 	url = "https://github.com/SantosRAC"
