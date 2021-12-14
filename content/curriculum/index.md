@@ -1,6 +1,6 @@
 ---
 type:
-title:
+title: CV page
 name: Renato Santos
 jobTitle: Bioinformatician
 locationName:
@@ -14,7 +14,6 @@ languages:
 techSkills:
 softSkills:
 openSource:
-
 ---
 
 # contact
