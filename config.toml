@@ -6,5 +6,7 @@ theme = "colordrop"
 [params]
 themeColor = "#000000"
 themeInverseColor = "#ffffff"
-description = "Welcome to my blog..."
-siteLogo = "logo-photo.png"
+description = "My academic life"
+siteLogo = "img/me.JPG"
+images:
+- img/me.JPG
