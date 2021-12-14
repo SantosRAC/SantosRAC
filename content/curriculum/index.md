@@ -31,6 +31,7 @@ openSource:
 
 # Initiatives in Education
 
+ * 2015 - current: [Study Group in Bioinformatics](https://www.instagram.com/bioinfomcca/)
  * 2017 - current: Brazilian Python Workshop for Biological Data
  * 2020 - current: Python Workshop for Microbiology Data
  * 2021 - current: Julia code clubs
