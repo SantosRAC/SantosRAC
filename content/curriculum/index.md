@@ -16,8 +16,8 @@ softSkills:
 openSource:
 ---
 
-# contact
+# Education
 
- * email: [renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com)
- * github: [@SantosRAC](https://github.com/SantosRAC/)
- * [LinkedIn](https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/)
+ * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/)
+ * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP
+ * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/)

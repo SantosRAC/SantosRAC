@@ -19,8 +19,8 @@ images = "img/me.JPG"
     url = "/curriculum/"
     weight = 2
 [[menu.main]]
-    name = "collaborations"
-    url = "/collaborations/"
+    name = "contact"
+    url = "/contact/"
     weight = 3
 
 [[menu.footer]]
