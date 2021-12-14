@@ -15,6 +15,8 @@ techSkills:
 softSkills:
 openSource:
 
+---
+
 contact:
   - identifier: email
     svg: email
@@ -32,5 +34,3 @@ contact:
     svg: linkedin
     display: SantosRAC
     url: https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/
-
----

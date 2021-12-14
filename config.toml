@@ -11,16 +11,16 @@ siteLogo = "img/me.JPG"
 images = "img/me.JPG"
 
 [[menu.main]]
-    name = "About"
-    url = "/About/"
+    name = "about"
+    url = "/about/"
     weight = 1
 [[menu.main]]
     name = "curriculum"
-    url = "/curriculum/index.md"
+    url = "/curriculum/"
     weight = 2
 [[menu.main]]
-    name = "Collaborations"
-    url = "/Collaborations/index.md"
+    name = "collaborations"
+    url = "/collaborations/"
     weight = 3
 
 [[menu.footer]]
@@ -33,5 +33,5 @@ images = "img/me.JPG"
     weight = 2
 [[menu.footer]]
       name = "curriculum"
-      url = "curriculum/index.md"
+      url = "/curriculum/"
     weight = 3
