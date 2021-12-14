@@ -36,6 +36,14 @@ openSource:
  * 2020 - current: Python Workshop for Microbiology Data
  * 2021 - current: Julia code clubs
 
+# Programming Skills
+
+ * Python: intermediary (exploratory data analysis; pandas, matplotlib, and seaborn)
+ * Perl: intermediary (data wrangling and regular expression)
+ * R: intermediary (exploratory data analysis)
+ * SQL: beginner
+ * Julia: beginner
+
 # Links
 
  * [Google Scholar](https://scholar.google.com.br/citations?user=22CKgnIAAAAJ)
