@@ -5,5 +5,4 @@ draft: false
 ---
 
  * email: [renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com)
- * github: [@SantosRAC](https://github.com/SantosRAC/)
  * [LinkedIn](https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/)

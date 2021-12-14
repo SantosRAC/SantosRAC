@@ -21,3 +21,6 @@ openSource:
  * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/)
  * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP
  * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/)
+
+ * [Google Scholar](https://scholar.google.com.br/citations?user=22CKgnIAAAAJ)
+ * [Currículo Lattes (CNPq, Brazil)](http://lattes.cnpq.br/3339727232509001)
