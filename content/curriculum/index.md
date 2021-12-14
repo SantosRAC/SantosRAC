@@ -22,11 +22,12 @@ openSource:
  * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP
  * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/)
 
-# Relevant publications
+# Selected relevant publications
 
- * [Zuvanov et al. (2021)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009534). In this manuscript, we describe the orgnization of the Brazilian Python Workshop for Biological Data.
- * [Santos et al. (2021)](https://www.frontiersin.org/articles/10.3389/ffunb.2021.723051/full). Identification of sites under positive selection in genes involved in antifungal resistance in _Aspergillus_ section _Fumigati_.
- * [Santos et al. (2020)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00459/full). Analysis of genomic and phenotypic heterogeneity in three _Aspergillus_ species, including two cryptic species.
+ * [Zuvanov, Garcia, Correr, Bizarria Jr et al. ... Santos (2021)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009534). In this manuscript, we describe the orgnization of the Brazilian Python Workshop for Biological Data.
+ * [Santos et al. ... Rokas (2021)](https://www.frontiersin.org/articles/10.3389/ffunb.2021.723051/full). Identification of sites under positive selection in genes involved in antifungal resistance in _Aspergillus_ section _Fumigati_.
+ * [Santos et al. ... Rokas (2020)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00459/full). Analysis of genomic and phenotypic heterogeneity in three _Aspergillus_ species, including two cryptic species.
+ * [Santos et al. ... Riaño-Pachón (2017)](https://academic.oup.com/bioinformatics/article/33/16/2575/3104472)
 
 # Initiatives in Education
 
