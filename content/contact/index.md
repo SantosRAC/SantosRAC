@@ -6,3 +6,4 @@ draft: false
 
  * email: [renatoacsantos@gmail.com](mailto:renatoacsantos@gmail.com)
  * [LinkedIn](https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/)
+ * +55 (19) 99722-5665

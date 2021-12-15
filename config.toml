@@ -22,6 +22,10 @@ images = "img/me.JPG"
     name = "contact"
     url = "/contact/"
     weight = 3
+[[menu.main]]
+    name = "Active Initiatives"
+    url = "/active_initiaves/"
+    weight = 4
 
 [[menu.footer]]
 	name = "github"
