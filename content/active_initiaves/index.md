@@ -11,6 +11,10 @@ draft: false
  * **How long do we stay online?** We meet for an hour every week!
  * **How can I join the group?** Just [message me](/contact/)!
 
+## Research Topic in Frontiers in (Bioinformatics and Education)
+
+ * [Original Strategies for Training and Educational Initiatives in Bioinformatics](https://www.frontiersin.org/research-topics/17876/original-strategies-for-training-and-educational-initiatives-in-bioinformatics). Although I wrote the proposal and coordinated the team of editors, I was not eligible to be an actual editor because I hadn't graduated at the time (~ Oct/2020).
+
 ## Computational Thinking (High School)
 
  * UNDER CONSTRUCTION
