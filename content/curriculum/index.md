@@ -49,3 +49,5 @@ openSource:
  * [Google Scholar](https://scholar.google.com.br/citations?user=22CKgnIAAAAJ)
  * [Currículo Lattes (CNPq, Brazil)](http://lattes.cnpq.br/3339727232509001)
  * [ORCID](https://orcid.org/0000-0003-0826-5479)
+ * [Github](https://github.com/SantosRAC)
+ * [Gitlab](https://gitlab.com/SantosRAC)
