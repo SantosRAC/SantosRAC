@@ -11,3 +11,4 @@ menu:
  * Genomics, Transcriptomics, and Phylogenetics
  * Bioinformatics Education
  * Microbiology and Plant Biology
+ * Research Ethics and Integrity
