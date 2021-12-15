@@ -26,6 +26,10 @@ images = "img/me.JPG"
     name = "active initiatives"
     url = "/active_initiaves/"
     weight = 4
+[[menu.main]]
+    name = "collaborations"
+    url = "/collaborations/"
+    weight = 5
 
 [[menu.footer]]
 	name = "github"
