@@ -22,3 +22,7 @@ draft: false
 ## Python Workshop for Microbiology Data (2022 edition)
 
  * Site under construction (see [our page in 2021](https://python-for-microbiology-data-brazil.gitlab.io/sitepythonmicrobiodata2021/))
+
+ ## Bioinfo Meetings no CCA
+
+ * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school
