@@ -23,7 +23,7 @@ images = "img/me.JPG"
     url = "/contact/"
     weight = 3
 [[menu.main]]
-    name = "Active Initiatives"
+    name = "active initiatives"
     url = "/active_initiaves/"
     weight = 4
 
