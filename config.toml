@@ -11,25 +11,21 @@ siteLogo = "img/me.JPG"
 images = "img/me.JPG"
 
 [[menu.main]]
-    name = "about"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
     name = "curriculum"
     url = "/curriculum/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
 [[menu.main]]
     name = "active initiatives"
     url = "/active_initiaves/"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "collaborations"
     url = "/collaborations/"
-    weight = 4
+    weight = 3
 
 [[menu.footer]]
 	name = "github"
