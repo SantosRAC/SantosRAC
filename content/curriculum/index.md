@@ -18,9 +18,9 @@ openSource:
 
 # Education
 
- * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/)
- * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP
- * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/)
+ * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/) - read my [thesis]()
+ * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP - read my [dissertation](pdf/dissertation/296898430.pdf)
+ * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/) - read my [final project](pdf/tcc/000775487.pdf)
 
 # Selected relevant publications
 
