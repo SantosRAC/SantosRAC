@@ -12,6 +12,10 @@ siteLogo = "img/me.JPG"
 images = "img/me.JPG"
 
 [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
     name = "curriculum"
     url = "/curriculum/"
     weight = 3
