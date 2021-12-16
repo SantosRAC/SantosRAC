@@ -1,5 +1,6 @@
 baseURL = 'https://santosrac.netlify.app/'
 languageCode = 'en-us'
+DefaultContentLanguage = 'en'
 title = 'Dr. Renato A. Corrêa dos Santos'
 theme = "colordrop"
 
