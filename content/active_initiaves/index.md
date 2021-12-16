@@ -29,4 +29,4 @@ draft: false
 
  ## Bioinfo Meetings no CCA
 
- * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school
+ * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school. Check out [our repository](https://gitlab.com/SantosRAC/BioinfoMeetingsCCA) (in Portuguese)
