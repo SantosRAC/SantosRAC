@@ -18,7 +18,7 @@ openSource:
 
 # Education
 
- * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/) - read my [thesis]() (in English)
+ * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/) - read my [thesis](pdf/thesis/Santos_RenatoAugustoCorreaDo_D.pdf) (in English)
  * 2018 - M.S. in Genetics and Molecular Biology, UNICAMP - read my [dissertation](pdf/dissertation/296898430.pdf) (in Portuguese)
  * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/) - read my [final project](pdf/tcc/000775487.pdf) (in Portuguese)
 
