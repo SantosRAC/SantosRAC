@@ -11,6 +11,7 @@ description = "Hi, I'm Renato Santos, a Ph.D in Genetics and Molecular Biology f
 siteLogo = "img/me.JPG"
 images = "img/me.JPG"
 
+[menu]
 [[menu.main]]
     name = "About"
     url = "/about/"
@@ -31,7 +32,6 @@ images = "img/me.JPG"
     name = "collaborations"
     url = "/collaborations/"
     weight = 4
-
 [[menu.footer]]
 	name = "github"
 	url = "https://github.com/SantosRAC"
