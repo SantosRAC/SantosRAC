@@ -1,6 +1,6 @@
 ---
 title:
-linkTitle:
+linkTitle: About
 weight: 1
 menu:
   main: {}
