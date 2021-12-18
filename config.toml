@@ -40,12 +40,3 @@ images = "img/me.JPG"
       name = "curriculum"
       url = "/curriculum/"
     weight = 3
-
-[languages]
-  [languages.en]
-    languageName = 'English'
-    weight = 1
-  [languages.br-pt]
-    languageName = 'Português Brasileiro'
-    description = "Olá! Sou Renato Santos."
-    weight = 2
