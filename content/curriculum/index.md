@@ -38,7 +38,7 @@ openSource:
 
 # Programming Skills
 
- * Python: intermediary (exploratory data analysis; pandas, matplotlib, and seaborn)
+ * Python: intermediary (exploratory data analysis; numpy, pandas, matplotlib, seaborn, plotly)
  * Perl: intermediary (data wrangling and regular expression)
  * R: intermediary (exploratory data analysis)
  * SQL: beginner
