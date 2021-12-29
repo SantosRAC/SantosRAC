@@ -10,9 +10,9 @@ menu:
 
  * Genomics, Transcriptomics, and Phylogenetics
  * Bioinformatics Education
- * Computer Science
  * Microbiology and Plant Biology
  * Research Ethics and Integrity
+ * Computer Science and Data Science
 
 ### You can follow me on my social media, if you wish
 
