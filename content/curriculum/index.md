@@ -41,6 +41,7 @@ openSource:
  * Python: intermediary (exploratory data analysis; numpy, pandas, matplotlib, seaborn, plotly)
  * Perl: intermediary (data wrangling and regular expression)
  * R: intermediary (exploratory data analysis)
+ * Git: intermediary
  * SQL: beginner
  * Julia: beginner
 
