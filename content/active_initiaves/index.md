@@ -30,3 +30,10 @@ draft: false
  ## Bioinfo Meetings no CCA
 
  * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school. Check out [our repository](https://gitlab.com/SantosRAC/BioinfoMeetingsCCA) (in Portuguese)
+ * We are currently developing an application using Flask and MySQL. During and after deployment, the main objetives of this project are:
+    * To organize information related to activities of our group
+    * To get involvement of computer science students in activities involving:
+      * Database management
+      * SQL
+      * Web development
+      * Object-oriented programming (ORM)
