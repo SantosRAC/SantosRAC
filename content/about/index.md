@@ -12,7 +12,7 @@ menu:
  * Bioinformatics Education
  * Microbiology and Plant Biology
  * Research Ethics and Integrity
- * Computer Science and Data Science
+ * Computer Science, Data Science, and Data Analysis
 
 ### You can follow me on my social media, if you wish
 
