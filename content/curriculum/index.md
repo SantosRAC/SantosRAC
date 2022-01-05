@@ -29,6 +29,10 @@ openSource:
  * [Santos et al. ... Rokas (2020)](https://www.frontiersin.org/articles/10.3389/fgene.2020.00459/full). Analysis of genomic and phenotypic heterogeneity in three _Aspergillus_ species, including two cryptic species.
  * [Santos et al. ... Riaño-Pachón (2017)](https://academic.oup.com/bioinformatics/article/33/16/2575/3104472). In this manuscript we describe [ploidyNGS](https://github.com/diriano/ploidyNGS), a software to visually exploit ploidy using Next Generation Sequencing data.
 
+ # Awards
+
+  * Member of team of winning contributors of 2018 ISCB Wikipedia Competition, International Society for Computational Biology (ISCB) and WikiProject Computational Biology
+
 # Initiatives in Education
 
  * 2015 - current: [Study Group in Bioinformatics](https://www.instagram.com/bioinfomcca/)
