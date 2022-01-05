@@ -41,14 +41,20 @@ openSource:
  * 2022 - current: Python Workshop for Plant Biology Data
  * 2021 - current: Julia code clubs
 
-# Programming Skills
+# Computer Science Skills
 
- * Python: intermediary (exploratory data analysis; numpy, pandas, matplotlib, seaborn, plotly)
+## Programming languages
+
+ * Python (7 years): intermediary (exploratory data analysis; numpy, pandas, matplotlib, seaborn, plotly)
  * Perl: intermediary (data wrangling and regular expression)
  * R: intermediary (exploratory data analysis)
- * Git: intermediary
  * SQL: beginner
  * Julia: beginner
+
+## OS and versioning
+
+ * Git: intermediary (on github/gitlab/bitbucket)
+ * Linux: intermediary (10 years)
 
 # Links
 
