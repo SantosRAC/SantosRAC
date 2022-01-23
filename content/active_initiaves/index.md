@@ -27,6 +27,10 @@ draft: false
 
  * Site under construction (see [our page in 2021](https://python-for-microbiology-data-brazil.gitlab.io/sitepythonmicrobiodata2021/))
 
+## Python Workshop for Plant Biology Data (2022 edition)
+
+ * Site under construction
+
  ## Bioinfo Meetings no CCA
 
  * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school. Check out [our repository](https://github.com/SantosRAC/BioinfoMeetingsCCA) (in Portuguese)
