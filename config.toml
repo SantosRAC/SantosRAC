@@ -7,7 +7,7 @@ theme = "colordrop"
 [params]
 themeColor = "#000000"
 themeInverseColor = "#ffffff"
-description = "Hi, I'm Renato Santos, a Ph.D in Genetics and Molecular Biology from Brazil; I graduated in November of last year (2021) and will hopefully become a post-doctoral researcher soon! I'm interested in bioinformatics and I love to teach programming skills to bioscientists. I'm also concerned about several aspects of how research is conducted today. This year I'll be acting as an Ambassador for eLife Community - I'm so excited about this!"
+description = "Hi, I'm Renato Santos, a Ph.D in Genetics and Molecular Biology from Brazil; I graduated in November of last year (2021) and currently a post-doctoral researcher! I'm interested in Bioinformatics and I love to teach programming skills to bioscientists. I'm also concerned about several aspects of how research is conducted today. This year I am an Ambassador for eLife Community (2022-2023 programmee) - I'm so excited about this!"
 siteLogo = "img/me.JPG"
 images = "img/me.JPG"
 
