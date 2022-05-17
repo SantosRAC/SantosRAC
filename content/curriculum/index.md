@@ -18,6 +18,7 @@ openSource:
 
 # Education
 
+ * 2022 - current Post-doctoral researcher, [Center for Nuclear Energy in Agriculture, University of São Paulo](www.cena.usp.br)
  * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/) - read my [thesis](pdf/thesis/Santos_RenatoAugustoCorreaDo_D.pdf) (in English)
  * 2018 - M.Sc. in Genetics and Molecular Biology, UNICAMP - read my [dissertation](pdf/dissertation/296898430.pdf) (in Portuguese)
  * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/) - read my [final project](pdf/tcc/000775487.pdf) (in Portuguese)
@@ -32,6 +33,7 @@ openSource:
  # Awards
 
   * Member of team of winning contributors of 2018 ISCB Wikipedia Competition, International Society for Computational Biology (ISCB) and WikiProject Computational Biology
+  * Member of the eLife Community Ambassadors programmee 2022-2023
 
 # Initiatives in Education
 

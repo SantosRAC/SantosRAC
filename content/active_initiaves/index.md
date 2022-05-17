@@ -7,7 +7,7 @@ draft: false
 ## Julia code clubs (started in November, 2021)
 
  * **Where?** On Google Meet
- * **When?** On Tuesdays at 5pm (BRT)
+ * **When?** On Wednesdays at 11:30 am (BRT)
  * **How long do we stay online?** We meet for an hour every week!
  * **How can I join the group?** Just [message me](/contact/)!
 
@@ -34,11 +34,6 @@ draft: false
  ## Bioinfo Meetings no CCA
 
  * Active meetings to discuss bioinformatics, science communication (in bioinformatics), coding (for bioinformatics), and bioinformatics in high school. Check out [our repository](https://github.com/SantosRAC/BioinfoMeetingsCCA) (in Portuguese)
- * We are currently developing an application using Flask and MySQL. During and after deployment, the main objetives of this project are:
-    * To organize information related to activities of our group
-    * To get involvement of computer science students in activities involving:
-      * Database management
-      * SQL
-      * Web development
-      * Object-oriented programming (ORM)
-      * Cloud Computing (e.g., AWS)
+ * We are currently running two code clubs
+   * Advanced Python programming solving Rosalind challenges
+   * Basic Python programming (built-in data structures and programming logics)
