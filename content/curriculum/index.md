@@ -52,6 +52,7 @@ openSource:
  * R: intermediary (exploratory data analysis)
  * SQL: beginner
  * Julia: beginner
+ * JavaScript: beginner
 
 ## OS and versioning
 
