@@ -10,4 +10,4 @@ aliases:
 
 ## Education initiatives
 
-[hello-world](hello-world.md)
+Haha

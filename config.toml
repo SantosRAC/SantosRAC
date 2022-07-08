@@ -44,3 +44,6 @@ images = "img/me.JPG"
       name = "curriculum"
       url = "/curriculum/"
     weight = 3
+
+[permalinks]
+    posts = '/post/:slug/'
