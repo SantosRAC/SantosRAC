@@ -27,6 +27,10 @@ images = "img/me.JPG"
 [[menu.main]]
     name = "Collaborations"
     url = "/collaborations/"
+    weight = 6
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
     weight = 4
 [[menu.footer]]
 	name = "github"
