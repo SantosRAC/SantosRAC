@@ -13,19 +13,19 @@ images = "img/me.JPG"
 
 [menu]
 [[menu.main]]
-    name = "curriculum"
+    name = "Curriculum"
     url = "/curriculum/"
     weight = 3
 [[menu.main]]
-    name = "contact"
+    name = "Contact"
     url = "/contact/"
     weight = 5
 [[menu.main]]
-    name = "active initiatives"
+    name = "Active initiatives"
     url = "/active_initiaves/"
     weight = 2
 [[menu.main]]
-    name = "collaborations"
+    name = "Collaborations"
     url = "/collaborations/"
     weight = 4
 [[menu.footer]]
