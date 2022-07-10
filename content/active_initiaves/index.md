@@ -18,19 +18,19 @@ draft: false
 
 ## Computational Thinking (High School)
 
- * UNDER CONSTRUCTION
+ * Manuscript accepted for publication in journal [Genética na Escola](https://www.geneticanaescola.com/), by the [Brazilian Genetics Society](https://www.sbg.org.br/) (in Portuguese)
 
-## Brazilian Python Workshop for Biological Data (2022 edition)
+## Brazilian Python Workshop for Biological Data
 
- * Site under construction (see [our page in 2021](https://btwbd.gitlab.io/sitepythonbiodata2021/))
+ * [Our webpage in 2022](https://wpdb2022.netlify.app/)
 
-## Python Workshop for Microbiology Data (2022 edition)
+## Python Workshop for Microbiology Data
 
- * Site under construction (see [our page in 2021](https://python-for-microbiology-data-brazil.gitlab.io/sitepythonmicrobiodata2021/))
+ * [Our webpage in 2022](https://python4microbiobrazil.gitlab.io/sitepythonmicrobiodata2022/)
 
-## Python Workshop for Plant Biology Data (2022 edition)
+## Python Workshop for Plant Biology Data
 
- * Site under construction
+ * [Our webpage in 2022](https://python4plantdatabr.wixsite.com/wspythonplantbio2022)
 
  ## Bioinfo Meetings no CCA
 

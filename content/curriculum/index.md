@@ -41,6 +41,7 @@ openSource:
  * 2017 - current: Brazilian Python Workshop for Biological Data
  * 2021 - current: Python Workshop for Microbiology Data
  * 2022 - current: Python Workshop for Plant Biology Data
+ * 2022 - 2022: [Introduction to Python programming for bioscientists](https://github.com/SantosRAC/intro_python_ismb2022) at the [ISMB conference](https://www.iscb.org/ismb2022).
  * 2021 - current: Julia code clubs
 
 # Computer Science Skills
