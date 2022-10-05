@@ -37,12 +37,9 @@ openSource:
 
 # Initiatives in Education
 
- * 2015 - current: [Study Group in Bioinformatics](https://www.instagram.com/bioinfomcca/)
- * 2017 - current: Brazilian Python Workshop for Biological Data
- * 2021 - current: Python Workshop for Microbiology Data
- * 2022 - current: Python Workshop for Plant Biology Data
+ * 2017 - 2022: Brazilian Python Workshop for Biological Data
+ * 2021 - 2022: Python Workshop for Microbiology Data
  * 2022 - 2022: [Introduction to Python programming for bioscientists](https://github.com/SantosRAC/intro_python_ismb2022) at the [ISMB conference](https://www.iscb.org/ismb2022).
- * 2021 - current: Julia code clubs
 
 # Computer Science Skills
 
