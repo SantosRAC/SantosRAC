@@ -13,6 +13,7 @@ menu:
  * Microbiology and Plant Biology
  * Research Ethics and Integrity
  * Computer Science, Data Science, and Data Analysis
+ * Genetics and Molecular Biology
 
 ### You can follow me on my social media, if you wish
 
