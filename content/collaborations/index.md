@@ -7,6 +7,8 @@ draft: false
 # University of São Paulo (USP), SP, Brazil
 
  * Prof. Dr. rer. nat. Diego Mauricio Riaño-Pachón ([LabBCES](https://labbces.netlify.app/))
+ * [Prof. Dr. Francisco Scaglia Linhares](www.cena.usp.br/francisco-scaglia-linhares)
+ * Prof. Dr. Flavia Vischi Winck ([LABIS](http://www.cena.usp.br/flavia-vischi-winck))
 
 # Federal University of São Carlos (UFSCar), SP, Brazil
 
@@ -23,3 +25,9 @@ draft: false
 
  * Prof. Dr. Yunrong Chai
  * PhD candidate Leticia Angelini
+
+# University of Idaho, Moscow, U.S.
+
+ * Prof. Dr. Paul Rowley ([Rowley Lab](https://www.rowleylab.com/))
+ * PhD candidate Rodolfo Bizarria Jr.
+

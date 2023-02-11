@@ -16,9 +16,12 @@ softSkills:
 openSource:
 ---
 
-# Education
+# Professional Experience
 
  * 2022 - current Post-doctoral researcher, [Center for Nuclear Energy in Agriculture, University of São Paulo](https://www.cena.usp.br)
+
+# Education
+
  * 2021 - Ph.D. in Genetics and Molecular Biology, [University of Campinas (UNICAMP)](https://www.ib.unicamp.br/) - read my [thesis](pdf/thesis/Santos_RenatoAugustoCorreaDo_D.pdf) (in English)
  * 2018 - M.Sc. in Genetics and Molecular Biology, UNICAMP - read my [dissertation](pdf/dissertation/296898430.pdf) (in Portuguese)
  * 2015 - Bachelor in Biological Sciences, [São Paulo State University (UNESP)](https://www.rc.unesp.br/) - read my [final project](pdf/tcc/000775487.pdf) (in Portuguese)
@@ -32,6 +35,7 @@ openSource:
 
  # Awards
 
+  * Best poster presentation at the "Simpósio dos Pós-graduandos do CENA" (Biology) (2022)
   * Member of team of winning contributors of 2018 ISCB Wikipedia Competition, International Society for Computational Biology (ISCB) and WikiProject Computational Biology
   * Member of the eLife Community Ambassadors programmee 2022-2023
 
@@ -64,5 +68,5 @@ openSource:
  * [ORCID](https://orcid.org/0000-0003-0826-5479)
  * [Publons](https://publons.com/researcher/1343305/renato-augusto-correa-dos-santos/)
  * [São Paulo Research Foundation Virtual Library](https://bv.fapesp.br/en/pesquisador/164909/renato-augusto-correa-dos-santos/)
- * [Github](https://github.com/SantosRAC)
- * [Gitlab](https://gitlab.com/SantosRAC)
+ * [Github (@SantosRAC)](https://github.com/SantosRAC)
+ * [Gitlab (@SantosRAC)](https://gitlab.com/SantosRAC)
