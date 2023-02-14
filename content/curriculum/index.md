@@ -43,6 +43,7 @@ openSource:
 
  * 2017 - 2022: Brazilian Python Workshop for Biological Data
  * 2021 - 2022: Python Workshop for Microbiology Data
+ * 2022 - 2022: Python Workshop for Plant Biology Data
  * 2022 - 2022: [Introduction to Python programming for bioscientists](https://github.com/SantosRAC/intro_python_ismb2022) at the [ISMB conference](https://www.iscb.org/ismb2022).
 
 # Computer Science Skills
