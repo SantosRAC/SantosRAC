@@ -8,3 +8,7 @@ draft: false
 ## Genomic Fridays
 
  * Seminars with students in our laboratory (LabBCES) doing research that involve genomic analyses (plants and microrganisms)
+
+## Reprodutibilidade Computacional Bio
+
+ * Initiative to promote the use of computational reproducibility in the biological sciences in Brazil and other Portuguese-speaking countries. We are also working in collaboration with the international community in Lating America to promote the awareness on the importance of this topic in the region. Find out more about our project [on Instagram](https://www.instagram.com/reprodcomputbio/)
