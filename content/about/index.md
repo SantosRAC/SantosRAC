@@ -8,7 +8,7 @@ menu:
 
 # Interests
 
- * Genomics, Transcriptomics, and Phylogenetics
+ * Genomics, Transcriptomics, Metataxonomics, and Phylogenetics
  * Bioinformatics Education
  * Microbiology and Plant Biology
  * Research Ethics and Integrity
@@ -19,3 +19,4 @@ menu:
 
  * [Instagram](https://www.instagram.com/renato.correa.182)
  * [facebook](https://www.facebook.com/renato.correa.182)
+ * [LinkedIn](https://www.linkedin.com/in/renato-augusto-corr%C3%AAa-dos-santos-263202132/)

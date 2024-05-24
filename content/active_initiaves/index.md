@@ -5,9 +5,9 @@ date: 2021-12-14T23:04:50-03:00
 draft: false
 ---
 
-## Genomic Fridays
+## Genomic Fridays (currently on Thursdays)
 
- * Seminars with students in our laboratory (LabBCES) doing research that involve genomic analyses (plants and microrganisms)
+ * Seminars with students or collaborators in our laboratory (LabBCES) doing research that involve omic analyses (in plants, microrganisms). Sometimes we also have talks on computational techniques applied to omics sciences and software development (small tools or web development).
 
 ## Reprodutibilidade Computacional Bio
 

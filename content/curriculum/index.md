@@ -18,6 +18,7 @@ openSource:
 
 # Professional Experience
 
+ * 2024 - current Post-doctoral researcher, [Wallace Lab, University of Georgia](https://wallacelab.uga.edu/)
  * 2022 - current Post-doctoral researcher, [Center for Nuclear Energy in Agriculture, University of São Paulo](https://www.cena.usp.br)
 
 # Education
