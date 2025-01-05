@@ -5,10 +5,6 @@ date: 2021-12-14T23:04:50-03:00
 draft: false
 ---
 
-## Genomic Fridays (currently on Thursdays)
-
- * Seminars with students or collaborators in our laboratory (LabBCES) doing research that involve omic analyses (in plants, microrganisms). Sometimes we also have talks on computational techniques applied to omics sciences and software development (small tools or web development).
-
-## Reprodutibilidade Computacional Bio
+# Reprodutibilidade Computacional Bio
 
  * Initiative to promote the use of computational reproducibility in the biological sciences in Brazil and other Portuguese-speaking countries. We are also working in collaboration with the international community in Lating America to promote the awareness on the importance of this topic in the region. Find out more about our project [on Instagram](https://www.instagram.com/reprodcomputbio/)

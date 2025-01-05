@@ -10,6 +10,7 @@ menu:
 
  * Genomics, Transcriptomics, Metataxonomics, and Phylogenetics
  * Bioinformatics Education
+ * Mental Health
  * Microbiology and Plant Biology
  * Research Ethics and Integrity
  * Computer Science, Data Science, and Data Analysis

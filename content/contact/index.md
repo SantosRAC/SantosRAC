@@ -8,4 +8,3 @@ draft: false
  * Institutional email: [renatoacsantos@usp.br](mailto:renatoacsantos@usp.br)
  * [LinkedIn](https://linkedin.com/in/renato-augusto-corrêa-dos-santos-263202132/)
  * +55 (19) 99722-5665 (Brazil)
- * +1 706 (461) 4123 (US)
