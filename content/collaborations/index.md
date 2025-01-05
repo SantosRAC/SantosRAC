@@ -13,7 +13,7 @@ draft: false
  * Prof. Dr. Igor Cesarino ([Lignin Lab](https://sites.usp.br/ligninlab/))
  * [Prof. Dr. Marcos S. Buckeridge](https://www.ib.usp.br/telefones-ib/docentes-ib/124-marcos-silveira-buckeridge.html)
 
-## University of Georgia, Atehsn, GA, U.S.
+## University of Georgia, Athens, GA, U.S.
 
  * Prof. Dr. Jason G. Wallace ([Wallace Lab, University of Georgia](https://wallacelab.uga.edu/))
 
