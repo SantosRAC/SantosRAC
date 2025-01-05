@@ -35,7 +35,7 @@ draft: false
  * Prof. Dr. Valeria Maia (CPQBA)
  * Dr. Kelly Johanna Hidalgo-Martinez (CPQBA)
 
-# People I've Worked With (3-4 years from now)
+# People I've Worked With (last 3-4 years)
 
  * Prof. Dr. Flavia Vischi Winck ([LABIS](http://www.cena.usp.br/flavia-vischi-winck))
  * [Prof. Dr. Lucas Mendes](http://www.cena.usp.br/lucas-william-mendes)
